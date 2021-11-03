@@ -1,0 +1,15 @@
+1:Solvent exposed and mostly tolerant to substitutions
+2:Spacer regions, tolerant to substitutions, Ala stretches also tolerated
+3:Buried, but tolerant to substitutions
+4:Solvent exposed, intolerant to substitutions, involved in salt bridges
+5:Buried/small, only small amino acid substitutions tolerated (I-)
+6:Solvent exposed/small, with small amino acid substitutions tolerated
+7:Buried, intolerant to substitutions (I-)
+8:C-terminal part of the dimerization interface, intolerant to substitutions (I-)
+9:DNA contacts, intolerant to substitutions (I-)
+10:Stabilization of the helix-turn-helix motif (I-)
+11:IPTG contacts, substitutions result in Is phenotype
+12:N-terminal part of the dimerization interface - substitutions result in Is phenotype
+13:N-terminal domain of the core, near the hinge connecting both core domains (Is)
+14:N-terminal domain of the core, near the center of the domain (weak Is)
+15:Interface between headpiece of protomer A and core of protomer B, or interface between headpieces A and B - intolerant to substitutions
